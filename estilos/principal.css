@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+
+main img#img-p{
+    width: 300px;
+    height: 300px;
+}
+
+header a#voltar{
+    display: block;
+    text-decoration: none;
+    font-size: 2em;
+    text-align: center;
+    color: black;
+    background-color: aqua;
+}
