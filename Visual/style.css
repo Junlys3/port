@@ -1,0 +1,43 @@
+/* Extra small devices (phones, 600px and down) 
+@media only screen and (max-width: 600px) {...}
+
+/* Small devices (portrait tablets and large phones, 600px and up) 
+@media only screen and (min-width: 600px) {...}
+
+/* Medium devices (landscape tablets, 768px and up) 
+@media only screen and (min-width: 768px) {...}
+
+/* Large devices (laptops/desktops, 992px and up) 
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up)
+@media only screen and (min-width: 1200px) {...}*/
+
+
+body{
+    background-color: rgb(41, 178, 202);
+}
+main{
+  
+    background-image: url("../Imagens/Screenshot_3.png");
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+
+    position: absolute;
+    left: 70%;
+    top: 15%;
+    
+}
+
+#name{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 3.4em;
+  color: black;
+  text-align: center;
+  padding-top: 230px;
+  padding-right: 600px;
+}
